@@ -1,0 +1,11 @@
+---
+title: "Bonnie's Project Homepage"
+author: "Bonnie Turek"
+date: "11/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Welcome to Bonnie's class page!
