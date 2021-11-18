@@ -1,0 +1,30 @@
+---
+title: "R Markdown Documents - Part 1"
+subtitle: "Analysis of Environmental Data"
+author: "Bonnie Turek"
+date: "9/7/2021"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Introduction
+Hello, my name is **Bonnie Turek**. I am in my second year of the UMass Amherst *Geography Master's Program* in the Geosciences department. My thesis research focuses on estimating blue carbon storage in Northeast tidal marshes using lidar-derived geomorphic tools, GIS, and remote sensing techniques. Before UMass, I completed my undergraduate degree at the University of New Hampshire (UNH) in Environmental Conservation and Sustainability. Originally my family and I are from Rhode Island, so by now I am pretty familiar with most of New England! 
+
+
+# Concepts List
+Some concepts I hope to learn from this course are:
+
+1. Basic R and applications to ecological/geoscience research
+2. Various types of models and statistical fits to environmental data
+3. How to interpret statistical significance of my own results and the results of other research work
+
+
+# Course List
+Some of my favorite courses I have taken so far are:
+
+* Coastal Processes (UMass - Jon Woodruff)
+* Water Quality and Watershed Management (UNH - Bill McDowell)
+* Remote Sensing and Image Interpretation (UNH - Russ Congalton)
+* Python for ArcGIS (UMass - Forrest Bowlick)
