@@ -1,7 +1,7 @@
 ---
 title: "Bonnie's Homepage"
 author: "Bonnie Turek"
-date: "11/18/2021"
+date: "11/21/2021"
 output: html_document
 ---
 
@@ -9,4 +9,4 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Welcome to Bonnie's class page!
+Hi, Welcome to Bonnie's class page!
