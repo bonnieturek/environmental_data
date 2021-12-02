@@ -1,0 +1,51 @@
+---
+title: "Final Project R Reference"
+author: "Bonnie Turek"
+date: "12/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R Reference Guide {.tabset .tabset-pills}
+
+
+## Loading Data and Packages
+
+## Data Structures
+### c()
+
+The function c() combines or concatenates its arguments into a vector (a 1-dimensional data structure consisting of 1 or more elements).
+
+*   All of the elements must be of the same type.
+*   I can’t combine character and numeric types in the same call to c()
+
+Here’s two examples using numeric and character data types:
+```{r}
+## Create a vector of numbers:
+num_vec  = c(1, 4, 8, 9, 13)
+
+## Create a vector of characters:
+char_vec = c("a", "fish", "data is cool")
+```
+I can show the contents of a vector by typing the name of the vector, or using the print() function.
+```{r}
+## Typing the name of the vector into the console prints the contents
+num_vec
+```
+```{r}
+## The print() function accomplishes the same task:
+print(char_vec)
+```
+
+
+## Subsetting
+
+## Numerical Data Exploration
+
+## Graphical Data Exploration
+
+## Distribuion Functions
+
