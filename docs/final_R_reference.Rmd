@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# R Reference Guide {.tabset .tabset-pills}
+# Bonnie's R Reference Guide {.tabset .tabset-pills}
 
 
 ## Loading Data and Packages
