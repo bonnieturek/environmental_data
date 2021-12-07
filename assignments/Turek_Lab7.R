@@ -15,6 +15,10 @@ moths = read.csv(here("data", "moths.csv"))
 head(moths)
 hist(moths$anst, main = "Histogram of Anisota stigma Abundance", xlab = "Abundance")
 
+require(palmerpenguins)
+peng = penguins
+
+
 m = 10000
 
 # numeric() creates an vector of length m with all values initialized to zero

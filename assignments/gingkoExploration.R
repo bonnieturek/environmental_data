@@ -16,3 +16,7 @@ plot(gingko$max_depth, gingko$max_width, ylab = "Maximum Leaf Width (mm)",
      main = "Maximum Gingko leaf depth vs. maximum leaf width",pch = 19,
      col = as.numeric(factor(gingko$ï..site_id)))
 
+mean(gingko$max_width)
+mean(gingko$max_width, na.rm = TRUE)
+
+mean(gingko$p)
